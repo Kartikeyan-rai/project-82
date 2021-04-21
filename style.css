@@ -1,0 +1,18 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("bg1.jpg");
+	background-size: cover;
+	background-position:center;
+}
+
+#my-canvas{
+	border-width: 10px;
+	border-color: crimson;
+	border-style: ridge;
+
+}
